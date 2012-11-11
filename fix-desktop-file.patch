@@ -1,0 +1,13 @@
+diff --git a/data/meego-panel-datetime.desktop.in.in b/data/meego-panel-datetime.desktop.in.in
+index c07c6c0..35ab6d3 100644
+--- a/data/meego-panel-datetime.desktop.in.in
++++ b/data/meego-panel-datetime.desktop.in.in
+@@ -9,7 +9,7 @@ Icon=meego-panel-datetime
+ _Comment=Date and Time panel
+ Terminal=false
+ Categories=
+-OnlyShowIn=MEEGO;
++OnlyShowIn=X-MEEGO-NB;
+ X-Meego-Priority=Low
+ X-Meego-Service=com.meego.UX.Shell.Panels.datetime
+ X-Meego-Panel-Optional=true
