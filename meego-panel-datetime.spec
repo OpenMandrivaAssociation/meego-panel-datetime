@@ -6,6 +6,11 @@ License: GPL v2 or later
 Source: meego-panel-datetime-0.3.2.tar.gz
 Patch1: fix-desktop-file.patch
 Group: System/Desktop
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires: intltool >= 0.35.5
 BuildRequires: libGConf2-devel
 BuildRequires: libnotify-devel
