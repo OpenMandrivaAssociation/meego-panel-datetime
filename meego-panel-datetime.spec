@@ -1,6 +1,6 @@
 Name: meego-panel-datetime
 Version: 0.3.2
-Release: %mkrel 1
+Release: 2
 Summary: Date/Time panel
 License: GPL v2 or later
 Source: meego-panel-datetime-0.3.2.tar.gz
